@@ -1,7 +1,7 @@
 # sioux-thesis
 Sioux thesis project - Translating Laban Movement Efforts into Real-Time Swarm Behavior
 
-This will be an interactive real-time framework developed to explore the mapping of Laban Effort parameters onto a particle swarm. The system will human motion as input, extract LMA (Laban movement analysis) effort parameters like Space, Time, Weight and Effort and generates responsive swarm behavior in real time, supporting the goal of dance company AKOB to create a particle cloud that mimics the movement dynamics of a human dancer.
+This will be an interactive real-time framework developed to explore the mapping of Laban Effort parameters onto a particle swarm. The system will get human motion as input, extract LMA (Laban movement analysis) effort parameters like Space, Time, Weight and Effort and generates responsive swarm behavior in real time, supporting the goal of dance company AKOB to create a particle cloud that mimics the movement dynamics of a human dancer.
 
 At this moment, I have handled input and managed to extract Laban effort parameters. There is a mediapipe screen showing input stream on the left and a table with laban effort parameters and their values on the right.
 
