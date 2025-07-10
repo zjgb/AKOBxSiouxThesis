@@ -16,3 +16,5 @@ INSTALLATION GUIDE:
 3. If you wish to interact with the mapping you can simply manipulate the sliders in frame A above. Alternatively you can open frame E as a seperate Window (make sure Viewer active is unchecked, right click on the frame and choose "Open as Seperate Window") and interact with the sliders in bottom left corner. 
 
 This is all, have fun.  
+
+Example usage of this framework in an interactive system: https://github.com/zjgb/AKOB-movement-system
