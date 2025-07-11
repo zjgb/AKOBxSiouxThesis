@@ -6,7 +6,7 @@ We have proposed a framework for mapping Laban Effort parameters on Particle Swa
 ## SYSTEM OVERVIEW:
 <img width="914" alt="particles-overview2" src="https://github.com/user-attachments/assets/7938c7a8-362b-4392-a63f-a7fa8ae65187" />
 
-Implementation was done in TouchDesigner. Every frame, particle coordinates were updated with a Python script (Fig. 4.B). It took the input of slider values representing four Laban Effort parameters, as well as random noise over three channels (Fig. 4A). The sliders were interactive, and the value was chosen from a range of 0 to 1, with both extremes representing the opposite poles of the respective Laban parameter. The positions were stored in a table (Fig. 4.C) that was directly connected to the rendering logic (Fig. 4.D) where particle representation was handled. Sliders accepting real-time input were overlaid with the responsive swarm to create an interactive window (Fig. 4.E).
+Implementation was done in TouchDesigner. Every frame, particle coordinates are updated with a Python script (Fig. 4.B). It takes the input of slider values representing four Laban Effort parameters, as well as random noise over three channels (Fig. 4.A). Sliders are interactive, and the values are chosen in the range between 0 and 1, with both extremes representing the opposite poles of the respective Laban parameter. The positions are stored in a table (Fig. 4.C) that is directly connected to the rendering logic (Fig. 4.D) where the representation of particles is handled. Sliders accepting real-time input were overlaid with the responsive swarm to create an interactive window (Fig. 4.E).
 
 ## INSTALLATION GUIDE:
 1. Install Touchdesigner:
